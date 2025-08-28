@@ -14,4 +14,6 @@ int datatypes () {
 
 int main () {
     datatypes();
+
+    return 0;
 }

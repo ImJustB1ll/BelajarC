@@ -15,4 +15,6 @@ int main () {
     printf("Jumlah Rata - Rata Selesai Soal: %d/15\n", skor);
     printf("Nilai Rata - Rata: %f\n", nilai);
     printf("Hasil Akhir Satu Angkatan: %c\n", hasil);
+
+    return 0;
 }
