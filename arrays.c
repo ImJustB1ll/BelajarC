@@ -28,5 +28,6 @@ int main () {
     
     printf("\n\nNah tadi kita telah mengetahui tentang loop yang bisa digunakan untuk memanggil index pada array. Selain deklarasi langsung, array juga dapat dibuat terlebih dahulu strukturnya lalu diisi valuenya lain waktu. Seperti contoh:\n\n");
     printf("\"int namaVariabelmu[4];\" -> Kode disamping artinya kita telah mendeklarasikan kalau ada array kosong yang dapat diisi nantinya dengan batasan maksimal indexnya 4 (5 value). Walau pada nantinya bisa melebihi batas, namun lebih baik menyesuaikan batas supaya memperingan pekerjaan proses memori yang berjalan.");
+    printf("Terakhir, array TIDAK SEHAT apabila kita mencampurkan beberapa tipe data ke dalamnya sekaligus diluar dari tipe data yang diinginkan");
 
 }
